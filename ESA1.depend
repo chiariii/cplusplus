@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1670763096 source:c:\users\user\documents\c++\esa1\mitarbeiterverwaltung.cpp
+	<iostream>
+	<string>
+	<string.h>
+
